@@ -22,8 +22,8 @@ single RTX 2080Ti
 尝试过facenet和mobilefacenet，因为两个模型在lfw数据集都已经得到很高的正确率，于是我采用了速度快不少的mobilefacenet
 
 # Run
-下载项目到本地 git clone https://github.com/1029127253/Real-time-face-recognition.git
-cd model-weights
-wget https://docs.google.com/uc?export=download&id=1a_pbXPYNj7_Gi6OxUqNo_T23Dt_9CzOV
-unzip YOLO_Face.h5.zip
-python main-9.py
+下载项目到本地 git clone https://github.com/1029127253/Real-time-face-recognition.git  
+cd model-weights  
+wget https://docs.google.com/uc?export=download&id=1a_pbXPYNj7_Gi6OxUqNo_T23Dt_9CzOV  
+unzip YOLO_Face.h5.zip  
+python main-9.py  
