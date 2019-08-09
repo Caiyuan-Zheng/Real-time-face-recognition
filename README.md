@@ -24,6 +24,7 @@ single RTX 2080Ti
 # Run
 下载项目到本地 git clone https://github.com/1029127253/Real-time-face-recognition.git  
 cd model-weights  
-wget https://docs.google.com/uc?export=download&id=1a_pbXPYNj7_Gi6OxUqNo_T23Dt_9CzOV  
+下载模型文件，链接：https://docs.google.com/uc?export=download&id=1a_pbXPYNj7_Gi6OxUqNo_T23Dt_9CzOV  
 unzip YOLO_Face.h5.zip  
+cd ..  
 python main-9.py  
